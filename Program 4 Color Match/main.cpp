@@ -1,5 +1,5 @@
 //
-// Program 4: Solution for Coloroid, color-matching game
+// Program 4:Coloroid, color-matching game
 //
 // Instructions:
 //    To run this program within Codio, first select the "Build and Run" option at the top
